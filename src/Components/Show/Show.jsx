@@ -5,7 +5,6 @@ import './Show.css'
 const Show = (props) => {
     console.log(props.title);
     const a=props.title
-
     return (
         <div>
               <div className="show_data">
