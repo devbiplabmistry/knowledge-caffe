@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "img": "https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/",
+        "Author_image": "https://www.pexels.com/photo/man-in-black-suit-jacket-holding-smartphone-3778680/",
+        "Author_name": "Mr.Raju",
+        "Read_Time": "05 min read",
+        "Publish_Date":"Mar 14 (4 Days ago)" ,
+        "Read_Title": "How to get your first job as a self-taught programmer"
+    },
+    {
+        "id": "2",
+        "img": "https://www.pexels.com/photo/woman-programming-on-a-notebook-1181359/",
+        "Author_image": "https://www.pexels.com/photo/man-in-black-suit-sitting-on-chair-beside-buildings-3778966/",
+        "Author_name": "Mrs. Setara",
+        "Read_Time": "10 min read",
+        "Publish_Date": "Mar 14 (4 Days ago)",
+        "Read_Title": "How to get your first job as a self-taught programmer"
+    },
+    {
+        "id": "3",
+        "img": "https://www.pexels.com/photo/silver-and-black-laptop-computer-1229861/",
+        "Author_image": "https://www.pexels.com/photo/well-dressed-businessman-sitting-on-sofa-3771839/",
+        "Author_name": "Mr. Raju",
+        "Read_Time": "12 min read",
+        "Publish_Date": "Mar 14 (4 Days ago)",
+        "Read_Title": "How to get your first job as a self-taught programmer"
+    },
+    {
+        "id": "4",
+        "img": "https://www.pexels.com/photo/hands-typing-on-a-laptop-keyboard-5483077/",
+        "Author_image": "https://www.pexels.com/photo/man-smiling-behind-wall-220453/",
+        "Author_name": "Mr. Biplab",
+        "Read_Time": "12 min read",
+        "Publish_Date": "Mar 14 (4 Days ago)",
+        "Read_Title": "How to get your first job as a self-taught programmer"
+    }
+
+
+
+]
