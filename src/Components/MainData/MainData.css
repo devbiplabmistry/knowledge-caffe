@@ -1,0 +1,78 @@
+.author-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.author-container{
+    display: flex;
+    gap: 475px;
+    align-items: center;
+}
+.cover-img{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 845px;
+}
+.cover-img img{
+    width: 845px;
+    border-radius: 8px;
+}
+.authorImage {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.authorImage im{
+    width: 100%;
+    height: 100%;
+}
+.AuthorName{
+    color: #111;
+    font-size: 24px;
+    font-family: 700;
+    margin-bottom: 15px;
+}
+.publishDate{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(17, 17, 17, 0.6);
+}
+.readingTime{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(17, 17, 17, 0.6); 
+}
+.Title{
+    font-size: 40px;
+    font-weight: 700;
+    color:#111; 
+    line-height: 64px;
+    padding-right: 700px;
+}
+.HasTag{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(17, 17, 17, 0.6); 
+    margin-right: 15px;   
+}
+
+.more{
+    font-size: 20px;
+    font-weight: 600;
+    color: #6047EC;
+    margin-top: 20px;
+}
+.more:hover{
+    text-decoration: underline;
+    transition: all linear .3s;
+}
+
+.readingTime span{
+   margin-left: 8px;
+}
+.readingTime{
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
