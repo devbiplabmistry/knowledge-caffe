@@ -3,6 +3,9 @@ import React, { useEffect, useState } from 'react';
 import MainData from '../MainData/MainData';
 import Show from '../Show/Show';
 
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 const Main = () => {
     const [data, setData] = useState([])
     const [BookMark,setBookMark] =useState([])
@@ -22,6 +25,12 @@ console.log(Title);
         setBookMark(newBookMark)
         const b=[...Title,id]
         setTitle(b)
+
+
+
+
+
+        <ToastContainer />
     }
 
     const handleTime=(time)=>{
