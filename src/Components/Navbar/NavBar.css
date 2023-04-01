@@ -11,6 +11,9 @@
     margin-right: 20px;
 }
 .Nav ul li a{
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
   color: red;
 }
 .Nav ul li:last-child{

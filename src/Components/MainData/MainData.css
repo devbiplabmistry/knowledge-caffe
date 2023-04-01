@@ -39,11 +39,13 @@
     color: rgba(17, 17, 17, 0.6);
 }
 .readingTime{
+    font-family: 'Exo 2', sans-serif;
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 17, 17, 0.6); 
 }
 .Title{
+    font-family: 'Exo 2', sans-serif;
     font-size: 40px;
     font-weight: 700;
     color:#111; 
@@ -51,6 +53,7 @@
     padding-right: 700px;
 }
 .HasTag{
+    font-family: 'Exo 2', sans-serif;
     font-size: 20px;
     font-weight: 500;
     color: rgba(17, 17, 17, 0.6); 
@@ -58,6 +61,7 @@
 }
 
 .more{
+    font-family: 'Exo 2', sans-serif;
     font-size: 20px;
     font-weight: 600;
     color: #6047EC;
